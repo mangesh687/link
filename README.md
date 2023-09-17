@@ -12,6 +12,7 @@ https://github.com/Sailaja-Neeluri/Core-Java-Assignement1
 6) mangesh
 https://github.com/mangesh687/JavaCTS
 
-
 7)mangesh
   https://github.com/mangesh687/spark
+8)springboot 
+https://github.com/in28minutes/spring-boot-master-class
