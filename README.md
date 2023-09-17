@@ -7,3 +7,5 @@ https://github.com/RameshMF/spring-boot-tutorial-course/commit/eb07df247247a7508
 https://github.com/praveencloudlab/java17
 4) springboot 
 https://github.com/in28minutes/spring-boot-master-class/tree/master/01.Spring-Boot-Introduction-In-10-Steps-V2
+5) java 8 
+https://github.com/Sailaja-Neeluri/Core-Java-Assignement1
