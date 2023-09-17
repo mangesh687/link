@@ -9,3 +9,5 @@ https://github.com/praveencloudlab/java17
 https://github.com/in28minutes/spring-boot-master-class/tree/master/01.Spring-Boot-Introduction-In-10-Steps-V2
 5) java 8 
 https://github.com/Sailaja-Neeluri/Core-Java-Assignement1
+6) mangesh
+https://github.com/mangesh687/JavaCTS
